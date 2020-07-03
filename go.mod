@@ -1,4 +1,4 @@
-module github.com/onosproject/onos-config
+module github.com/joshuazhu78/onos-config
 
 go 1.14
 
